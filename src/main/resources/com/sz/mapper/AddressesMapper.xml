@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.sz.mapper.AddressesMapper">
+
+
+    <select id="queryById" resultType="com.sz.pojo.Addresses">
+        select * from addresses where id = #{id}
+    </select>
+    <select id="queryByCountryCity" resultType="com.sz.pojo.Addresses">
+        select * from addresses
+        where
+        CITY = #{city}
+        and
+        COUNTRY = #{country}
+    </select>
+    <select id="query" resultType="com.sz.pojo.Addresses" parameterType="com.sz.pojo.Addresses">
+        select * from addresses
+        <where>
+            <choose>
+                <when test="false">
+
+                </when>
+                <when test="true">
+
+                </when>
+                <otherwise></otherwise>
+            </choose>
+        </where>
+    </select>
+    <select id="queryByIds" resultType="com.sz.pojo.Addresses">
+        select * from  addresses
+        <where>
+            addr_id in
+            <foreach collection="list" open="(" close=")" item="item" separator="," index="index">
+                #{item}
+            </foreach>
+        </where>
+    </select>
+    <select id="queryLike" resultType="com.sz.pojo.Addresses">
+        select * from addresses
+        where
+        CITY like concat('%' ,#{city},'%')
+    </select>
+
+</mapper>

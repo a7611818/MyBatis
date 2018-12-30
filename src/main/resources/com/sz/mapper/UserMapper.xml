@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sz.mapper.UserMapper">
+
+    <resultMap id="userBaseMap" type="com.sz.pojo.UserWithDetail">
+     <!--User里面的信息,-->
+        <id property="id" column="uid"/>
+        <result property="phone" column="phone"/>
+        <result property="password" column="password"/>
+        <result property="createDate" column="createDate"/>
+        <result property="status" column="status"/>
+    </resultMap>
+
+    <!--封装1-->
+    <resultMap id="userWithDetailMap" type="com.sz.pojo.UserWithDetail" extends="userBaseMap">
+        <!--还存在UserDetail在UserWithDetail-->
+        <association property="userDetail" javaType="com.sz.pojo.UserDetail">
+            <id property="id" column="udId"/>
+            <result property="address" column="address"/>
+            <result property="cid" column="cid"/>
+        </association>
+    </resultMap>
+
+    <!--封装2-->
+    <resultMap id="userWithDetailMap2" type="com.sz.pojo.UserWithDetail" extends="userBaseMap">
+
+        <result property="userDetail.id" column="udId"/>
+        <result property="userDetail.cid" column="cid"/>
+        <result property="userDetail.address" column="address"/>
+    </resultMap>
+    <!--封装3-->
+    <resultMap id="userWithDetailMap3" extends="userBaseMap" type="com.sz.pojo.UserWithDetail">
+        <association property="userDetail" select="com.sz.mapper.UserDetailMapper.queryByUserId" column="uid">
+        </association>
+    </resultMap>
+
+
+    <select id="queryById" resultMap="userWithDetailMap2">
+        SELECT t1.`id` as uid,t1.`phone` , t1.`password`,t1.`create_date`,t1.`status`,
+        t2.`id` as udId,t2.`address`, t2.`cid`
+        FROM USER t1,user_detail t2
+        <where>
+            t1.`id` = t2.`u_id`
+            AND t1.`id`=#{id};
+        </where>
+    </select>
+
+    <select id="queryByIdStep" resultMap="userWithDetailMap3">
+            SELECT t1.`id` as uid,t1.`phone` , t1.`password`,t1.`create_date`,t1.`status`
+            FROM USER t1
+            <where>
+                AND t1.`id`= #{id};
+            </where>
+    </select>
+</mapper>
