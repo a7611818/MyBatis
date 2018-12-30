@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="174c6aa4-e27c-4da5-b155-0948866359ea" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis3@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis4: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="AddressesMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/sz/mapper/AddressesMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GitTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/util/GitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyBatisUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/util/MyBatisUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDynamicSQL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sz/com/sz/TestDynamicSQL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/sz/mapper/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mybatis-mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SqlSessionFactoryBuilder</find>
+      <find>Excepti</find>
+      <find>queryByUserId</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/pojo/Girl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/mapper/GirlMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/pojo/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/pojo/B.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sz/com/sz/Test1.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/sz/mapper/GirlMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/mapper/GirlMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/mapper/AddressesMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/pojo/Addresses.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/myBatis.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/userWithDetailMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/pojo/UserDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/pojo/UserWithDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/resultMap1.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/sz/mapper/UserDetailMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sz/com/sz/TestDynamicSQL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/mapper/UserDetailMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/sz/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/sz/mapper/AddressesMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/util/MyBatisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sz/util/GitTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\me\java\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myBatis002" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBatis002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBatis002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\me\java\java code\myBatis002\src\main\resources\com\sz\mapper" />
+      <recent name="C:\me\java\java code\myBatis002\src\main\java\com\sz\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sz" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sz.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\me\java\java code\myBatis002\src\main\resources\com\sz\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDynamicSQL.ml">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.m3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatis002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.com.sz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sz.com.sz" />
+      <option name="MAIN_CLASS_NAME" value="com.sz.com.sz.Test1" />
+      <option name="METHOD_NAME" value="m3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Test1.m4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatis002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.com.sz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sz.com.sz" />
+      <option name="MAIN_CLASS_NAME" value="com.sz.com.sz.Test1" />
+      <option name="METHOD_NAME" value="m4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Test1.m5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatis002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.com.sz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sz.com.sz" />
+      <option name="MAIN_CLASS_NAME" value="com.sz.com.sz.Test1" />
+      <option name="METHOD_NAME" value="m5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Test1.m6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatis002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.com.sz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sz.com.sz" />
+      <option name="MAIN_CLASS_NAME" value="com.sz.com.sz.Test1" />
+      <option name="METHOD_NAME" value="m6" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestDynamicSQL.ml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myBatis002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sz.com.sz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sz.com.sz" />
+      <option name="MAIN_CLASS_NAME" value="com.sz.com.sz.TestDynamicSQL" />
+      <option name="METHOD_NAME" value="ml" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Test1.m4" />
+      <item itemvalue="JUnit.Test1.m3" />
+      <item itemvalue="JUnit.Test1.m5" />
+      <item itemvalue="JUnit.Test1.m6" />
+      <item itemvalue="JUnit.TestDynamicSQL.ml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDynamicSQL.ml" />
+        <item itemvalue="JUnit.Test1.m3" />
+        <item itemvalue="JUnit.Test1.m6" />
+        <item itemvalue="JUnit.Test1.m5" />
+        <item itemvalue="JUnit.Test1.m4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="174c6aa4-e27c-4da5-b155-0948866359ea" name="Default" comment="" />
+      <created>1545485903829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545485903829</updated>
+      <workItem from="1545485905366" duration="5466000" />
+      <workItem from="1545549779281" duration="16593000" />
+      <workItem from="1545573460408" duration="394000" />
+      <workItem from="1545650381128" duration="386000" />
+      <workItem from="1545650866759" duration="916000" />
+      <workItem from="1545651845333" duration="431000" />
+      <workItem from="1545656886349" duration="1206000" />
+      <workItem from="1545750054074" duration="456000" />
+      <workItem from="1545750976799" duration="185000" />
+      <workItem from="1545751268796" duration="200000" />
+      <workItem from="1545751515658" duration="293000" />
+      <workItem from="1545751881758" duration="661000" />
+      <workItem from="1545752699782" duration="90000" />
+      <workItem from="1545752861728" duration="184000" />
+      <workItem from="1545827438463" duration="526000" />
+      <workItem from="1545828034018" duration="4363000" />
+      <workItem from="1545833396948" duration="2331000" />
+      <workItem from="1545915450530" duration="3397000" />
+      <workItem from="1546007382329" duration="4321000" />
+      <workItem from="1546161980783" duration="9272000" />
+      <workItem from="1546174589627" duration="927000" />
+      <workItem from="1546181500014" duration="1738000" />
+    </task>
+    <task id="LOCAL-00001" summary="MyBatis mapper.xml中查询结果的封装 &#10;&#10;和动态sql">
+      <created>1546171521190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546171521191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MyBatis mapper.xml中查询结果的封装 &#10;&#10;和动态sql">
+      <created>1546173560108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546173560109</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MyBatis mapper.xml中查询结果的封装 &#10;&#10;和动态sql">
+      <created>1546173774630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546173774630</updated>
+    </task>
+    <task id="LOCAL-00004" summary="MyBatis mapper.xml中查询结果的封装 &#10;&#10;和动态sql">
+      <created>1546173823808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546173823808</updated>
+    </task>
+    <task id="LOCAL-00005" summary="MyBatis mapper.xml中查询结果的封装 &#10;&#10;和动态sql">
+      <created>1546173841397</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546173841397</updated>
+    </task>
+    <task id="LOCAL-00006" summary="MyBatis mapper.xml中查询结果的封装 &#10;&#10;和动态sql">
+      <created>1546183096260</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546183096260</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 18h 51m 05s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 18h 51m 27s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 18h 52m 17s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 18h 57m 38s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 19h 44m 23s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 19h 52m 05s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 19h 53m 29s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 19h 54m 31s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 19h 55m 38s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDynamicSQL_ml - 2018.12.30 at 19h 58m 03s.xml">
+      <configuration name="TestDynamicSQL.ml" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54336000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.6951567" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32908848" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.67094016" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32905984" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23927614" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24932976" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.08262108" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32905984" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32965517" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MyBatis mapper.xml中查询结果的封装 &#10;&#10;和动态sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyBatis mapper.xml中查询结果的封装 &#10;&#10;和动态sql" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/Serializable.java</url>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/GirlMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/sz/mapper/GirlMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/GirlMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/GirlMapper.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/GirlMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/GirlMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/util/MyBatisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.propertis" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/io/Resources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6673">
+          <caret line="72" column="44" lean-forward="true" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="275" column="8" selection-start-line="275" selection-start-column="8" selection-end-line="275" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3712">
+          <caret line="231" column="42" lean-forward="true" selection-start-line="231" selection-start-column="42" selection-end-line="231" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/pojo/B.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/pojo/Girl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/pojo/A.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/GirlMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/sz/mapper/GirlMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sz/com/sz/Test1.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0852443b-0548-499b-b7a6-ad134afea036/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5982998b-e92a-41bd-a736-25ffbb6c809a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3dfefe95-be69-4760-b81f-138f2490925f/schema/mybatis3/table/addresses">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/AddressesMapper.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/pojo/Addresses.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="144" column="14" lean-forward="true" selection-start-line="144" selection-start-column="14" selection-end-line="144" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3dfefe95-be69-4760-b81f-138f2490925f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLDocumentFragmentScannerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="1395" column="13" lean-forward="true" selection-start-line="1395" selection-start-column="13" selection-end-line="1395" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/exceptions/ExceptionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="82" column="11" lean-forward="true" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/parsing/XPathParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="256" selection-start-line="256" selection-end-line="256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/com/sun/org/apache/xerces/internal/jaxp/DocumentBuilderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/myBatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/userWithDetailMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resultMap1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/sz/mapper/UserDetailDtail.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/pojo/UserWithDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/pojo/UserDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/UserDetailMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/sz/mapper/UserDetailMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sz/com/sz/TestDynamicSQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/sz/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/sz/mapper/AddressesMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/util/MyBatisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sz/util/GitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myBatis002</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <properties resource="jdbc.properties"/>
+
+    <settings>
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+        <setting name="logImpl" value="LOG4J"/>
+        <!--<setting name="" value=""/>-->
+    </settings>
+
+    <environments default="dev">
+        <environment id="dev">
+            <transactionManager type="JDBC"/>
+            <dataSource type="UNPOOLED">
+                <!--xml里面'&'需要转义成'&amp;'-->
+                <property name="url" value="${url}"/>
+                <property name="driver" value="${driver}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <mappers>
+        <!--不要写. 要写斜杠，这是第一种，是xml的路径，mapper匹配接口在xml里面写-->
+        <!--<mapper resource="com/sz/mapper/GirlMapper.xml"/>-->
+        <!--第二种，通过URL 协议：地址的方式引入-->
+        <!--<mapper url="file:E///E:………….xml我省略了这部分"/>-->
+        <!--第三种，通过接口，是java文件的路径，可以用.接口和xml必须在同一包里面，好像可以自动匹配-->
+        <!--<mapper class="com.sz.mapper.GirlMapper"/>-->
+        <package name="com.sz.mapper"/>
+    </mappers>
+</configuration>
