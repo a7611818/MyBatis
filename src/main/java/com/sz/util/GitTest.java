@@ -2,5 +2,5 @@ package com.sz.util;
 
 public class GitTest {
     //123123123123123123123 s
-    private Integer hahssa;
+    private Integer hahssasd123asda;
 }
