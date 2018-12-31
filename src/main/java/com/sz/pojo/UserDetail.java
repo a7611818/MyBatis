@@ -48,6 +48,13 @@ public class UserDetail implements Serializable {
                 "id=" + id +
                 ", address='" + address + '\'' +
                 ", cid='" + cid + '\'' +
+                '}'+
+                "User{" +
+                "id=" + id +
+                ", phone='" + user.getPhone() + '\'' +
+                ", password='" + user.getPassword() + '\'' +
+                ", createDate=" + user.getCreateDate() +
+                ", status=" + user.getStatus() +
                 '}';
     }
 }

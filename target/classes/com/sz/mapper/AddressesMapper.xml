@@ -28,7 +28,6 @@
             </choose>
         </where>
     </select>
-    <!--gitTest-->
     <select id="queryByIds" resultType="com.sz.pojo.Addresses">
         select * from  addresses
         <where>

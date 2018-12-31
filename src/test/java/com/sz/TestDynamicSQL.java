@@ -1,7 +1,7 @@
-package com.sz.com.sz;
+package com.sz;
 
 import com.sz.mapper.UserMapper;
-import com.sz.pojo.UserWithDetail;
+import com.sz.pojo.UserBlog;
 import com.sz.util.MyBatisUtil;
 import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
@@ -13,7 +13,7 @@ public class TestDynamicSQL {
         SqlSession sqlsession = MyBatisUtil.getSession();
 
         UserMapper mapper = sqlsession.getMapper(UserMapper.class);
-        UserWithDetail userWithDetail = mapper.queryByIdStep(1);
+        UserBlog userWithDetail = mapper.queryByIdWithBlog(1);
 
         System.out.println(userWithDetail);
         sqlsession.close();

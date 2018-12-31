@@ -33,6 +33,20 @@
         <association property="userDetail" select="com.sz.mapper.UserDetailMapper.queryByUserId" column="uid">
         </association>
     </resultMap>
+    
+    <resultMap id="userWithBlog" extends="userBaseMap" type="com.sz.pojo.UserBlog" >
+        <!--博客-->
+        <collection property="blogs" ofType="com.sz.pojo.Blog">
+            <id property="id" column="b_id"/>
+            <result property="summary" column="summary"/>
+            <result property="content" column="blog_content"/>
+            <!--评论-->
+            <collection property="comments" ofType="com.sz.pojo.Comment">
+                <id property="id" column="c_id"/>
+                <result property="content" column="comment_content"/>
+            </collection>
+        </collection>
+    </resultMap>
 
 
     <select id="queryById" resultMap="userWithDetailMap2">
@@ -51,5 +65,18 @@
             <where>
                 AND t1.`id`= #{id};
             </where>
+    </select>
+
+
+    <select id="queryByIdWithBlog" resultMap="userWithBlog">
+        SELECT t1.`id` as u_id, t1.`phone`,
+        t2.`id` as b_id,t2.`summary`,t2.`content` as blog_content,
+        t3.id as c_id,t3.`content` as comment_content
+        FROM USER t1,blog t2,COMMENT t3
+        <where>
+                t1.id = #{id}
+            AND t1.id = t2.u_id
+            AND t3.b_id = t2.id
+        </where>
     </select>
 </mapper>
